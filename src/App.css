@@ -1,0 +1,108 @@
+body{
+  background-color: #EEEEEE !important;
+}
+
+
+.bg-warning {
+  background-color: #FFE600 !important;
+}
+
+.header{
+  padding: 5px 0px 10px 28px !important;
+  text-align: center !important;
+
+}
+
+.img-products{
+  height: 180px !important;
+  width: 180px !important;
+  border-radius: 4px !important;
+  padding: 16px !important;
+}
+
+.img-products-detalle{
+  width: 680px !important;
+  height: 680px !important;
+}
+
+.font-size12{
+  font-size: 12px !important;
+}
+
+.font-sized14{
+  font-size: 14px !important;
+  margin-top: 32px !important;
+  margin-bottom: 16px !important;
+}
+.font-size24{
+  font-size: 24px !important;
+  margin-top: 16px !important;
+}
+.font-sized24{
+  font-size: 24px !important;
+  margin-bottom: 32px !important;
+  margin-right: 32px !important;
+}
+.font-sized46{
+  font-size: 46px !important;
+  margin-bottom: 32px !important;
+}
+.font-size18{
+  font-size: 18px !important;
+  margin-top: 32px !important;
+}
+
+.font-size28{
+  font-size: 28px !important;
+  margin-bottom: 32px !important;
+}
+.font-size16{
+  font-size: 16px !important;
+  margin-bottom: 32px !important;
+}
+.padding-32{
+  padding: 32px !important;
+}
+
+.margin-rightd{
+  margin-right: 32px !important;
+  background-color: #3483FA !important;
+  border-color: #3483FA !important;
+}
+
+.border-button{
+  border-bottom: 1px solid #EEEEEE !important;
+}
+
+.btn-search{
+  border: 1px solid #EEEEEE !important;
+  background-color: #EEEEEE !important;
+  color: black;
+}
+.btn-search:hover{
+  border: 1px solid #EEEEEE !important;
+  background-color: #EEEEEE !important;
+  color: black;
+}
+
+.marginsearch{
+  margin-left: 19px !important;
+}
+.marginsearchr{
+  margin-right: 47px !important;
+}
+
+.border-radius{
+  border-radius: 4px !important;
+}
+
+.barranav{
+  padding: 16px 0px 16px 0px !important;
+  margin-left: -15px !important;
+  font-size: 14px !important;
+  color: #999999 !important;
+}
+
+.descrip{
+  width: 680px !important;
+}
